@@ -85,7 +85,7 @@ function checkAnswer() {
     }
 
     if (!selectedAnswer) {
-        showPopup("Please select an answer before submitting!");
+        showPopup("Escolha uma alternativa antes, olha o TDAH vencendo");
         return;
     }
 
